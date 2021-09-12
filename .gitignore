@@ -6,3 +6,5 @@ saves/
 ## THROWABLES
 logs/
 crash-reports/
+dumps/
+backups/
