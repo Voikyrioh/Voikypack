@@ -2,4 +2,7 @@
 usercache.json
 usernamecache.json
 saves/
+
+## THROWABLES
 logs/
+crash-reports/
