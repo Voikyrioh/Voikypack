@@ -1,0 +1,39 @@
+To refresh this file, delete it and run /reload command again! Last updated: Sep 12, 2021 3:15:26 PM
+
+#carryon:entity_blacklist
+
+#carryon:stacking_whitelist
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#carryon:stacking_blacklist
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#carryon:entity_whitelist
