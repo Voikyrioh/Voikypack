@@ -1,5 +1,5 @@
 version:2586
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -73,15 +73,15 @@ key_key.left:key.keyboard.a
 key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
-key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.control
-key_key.drop:key.keyboard.q
+key_key.sneak:key.keyboard.tab
+key_key.sprint:key.keyboard.left.shift
+key_key.drop:key.keyboard.p
 key_key.inventory:key.keyboard.e
-key_key.chat:key.keyboard.t
-key_key.playerlist:key.keyboard.tab
+key_key.chat:key.keyboard.enter
+key_key.playerlist:key.keyboard.grave.accent
 key_key.pickItem:key.mouse.middle
-key_key.command:key.keyboard.slash
-key_key.socialInteractions:key.keyboard.p
+key_key.command:key.keyboard.unknown
+key_key.socialInteractions:key.keyboard.left.bracket
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
@@ -101,13 +101,22 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
+key_key.create_stuff_additions.flying:key.keyboard.space
+key_key.organics.arrow_shoot:key.keyboard.x
+key_key.renaissance__revolution.activate_parachute:key.keyboard.r
+key_key.renaissance__revolution.rocket_boot_jump:key.keyboard.space
+key_key.renaissance__revolution.air_balloon_up:key.keyboard.space
 key_key.carry.desc:key.keyboard.left.shift
+key_keybind.advancedperipherals.description:key.keyboard.left.control
+key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
+key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.corpse.death_history:key.keyboard.u
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_key.cofh.mode_change_increment:key.keyboard.v
 key_Camera left:key.keyboard.left
 key_Camera right:key.keyboard.right
 key_Camera closer:key.keyboard.up
@@ -116,8 +125,16 @@ key_Camera up:key.keyboard.page.up
 key_Camera down:key.keyboard.page.down
 key_Swap shoulder:key.keyboard.o
 key_Toggle perspective:key.keyboard.unknown
+key_key.refinedstorage.focusSearchBar:key.keyboard.tab
+key_key.refinedstorage.clearGridCraftingMatrix:key.keyboard.x:CONTROL
+key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
+key_key.refinedstorage.openWirelessFluidGrid:key.keyboard.unknown
+key_key.refinedstorage.openWirelessCraftingMonitor:key.keyboard.unknown
+key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
+key_Descend:key.keyboard.unknown
 key_doubleslabs.key.toggleVerticalSlabPlacement:key.keyboard.caps.lock
-key_quark.keybind.autorun:key.keyboard.caps.lock
+key_key.ftbquests.quests:key.keyboard.slash
+key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -136,18 +153,32 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_key.ftbquests.quests:key.keyboard.unknown
-key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.lock_rotation:key.keyboard.k
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.back:key.mouse.4
-key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_player:key.keyboard.r
 key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.back:key.mouse.4
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.autorun:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_key.craftingtweaks.rotate:key.keyboard.unknown
+key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
+key_key.craftingtweaks.balance:key.keyboard.unknown
+key_key.craftingtweaks.spread:key.keyboard.unknown
+key_key.craftingtweaks.clear:key.keyboard.unknown
+key_key.craftingtweaks.force_clear:key.keyboard.unknown
+key_key.craftingtweaks.toggleButtons:key.keyboard.unknown
+key_key.craftingtweaks.compressOne:key.keyboard.k:CONTROL
+key_key.craftingtweaks.compressStack:key.keyboard.k
+key_key.craftingtweaks.compressAll:key.keyboard.k:SHIFT
+key_key.craftingtweaks.decompressOne:key.keyboard.unknown
+key_key.craftingtweaks.decompressStack:key.keyboard.unknown
+key_key.craftingtweaks.decompressAll:key.keyboard.unknown
+key_key.craftingtweaks.refill_last:key.keyboard.tab
+key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.toolbelt.open:key.keyboard.r
 key_key.toolbelt.cycle.left:key.keyboard.unknown
 key_key.toolbelt.cycle.right:key.keyboard.unknown
